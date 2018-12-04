@@ -1,0 +1,19 @@
+.health {
+    background-color: #83b0ca;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    margin: auto;
+    flex-wrap: wrap;
+
+}
+
+.healthCard{
+    min-width: 300px;
+}
+.healthCContent{
+    background-color: aquamarine;
+}
